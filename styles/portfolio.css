@@ -132,7 +132,13 @@ main{
     font-size: 20px;
     color: #474747;
     font-weight: 700;
-    
+}
+
+#what-i-do-description{
+    padding: 30px 150px;
+    text-align: center;
+    font-size: 18px;
+    color: #757575;
 }
 
 
