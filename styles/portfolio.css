@@ -17,6 +17,20 @@ body{
     cursor: pointer;
     background-color: #FD6E0A;
 }
+
+.section-title{
+    font-size: 35px;
+    font-weight: 700;
+    color: #181818;
+    text-align: center;
+}
+
+.section-description{
+    font-size: 18px;
+    color: #757575;
+    font-weight: 400;
+    text-align: center;
+}
 /* nav related styles */
 nav{
     display: flex;
@@ -85,4 +99,13 @@ nav li a{
 .banner-description{
     margin-bottom: 30px;
 }
+
+/* Abut section styles */
+.abut{
+    padding: 140px;
+    border-radius: 10px;
+    background-color: #FFF8F3;
+    margin: 130px 0;
+}
+
 
