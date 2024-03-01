@@ -100,12 +100,39 @@ nav li a{
     margin-bottom: 30px;
 }
 
+/* main section styles */
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
 /* Abut section styles */
 .abut{
     padding: 140px;
     border-radius: 10px;
     background-color: #FFF8F3;
     margin: 130px 0;
+}
+
+.abut-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+
+.abut-info{
+    text-align: center;
+}
+
+.info-title{
+    font-size: 20px;
+    color: #757575;
+}
+
+.info-description{
+    font-size: 20px;
+    color: #474747;
+    font-weight: 700;
+    
 }
 
 
