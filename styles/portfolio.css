@@ -23,6 +23,7 @@ body{
     font-weight: 700;
     color: #181818;
     text-align: center;
+    margin-top: -80px;
 }
 
 .section-description{
@@ -111,7 +112,7 @@ main{
     padding: 140px;
     border-radius: 10px;
     background-color: #FFF8F3;
-    margin: 130px 0;
+    margin: 100px 0;
 }
 
 .abut-info-container{
@@ -134,11 +135,27 @@ main{
     font-weight: 700;
 }
 
+/* Skills related styles */
 #what-i-do-description{
     padding: 30px 150px;
     text-align: center;
     font-size: 18px;
     color: #757575;
+}
+
+.skills-container{
+    display: flex;
+}
+
+.skill{
+    padding: 30px;
+    gap: 24px;
+}
+
+.skill-description{
+    font-size: 16px;
+    color: #474747;
+    font-weight: 400;
 }
 
 
