@@ -206,9 +206,31 @@ main section{
 
 footer{
     display: flex;
+    gap: 100px;
     background-color: #FFF8F3;
     padding: 80px 200px;
     margin-top: 60px;
+}
+
+.social-link a{
+    margin-right: 25px;
+}
+
+.footer-left-side{
+    width: 50%;
+}
+
+.footer-right-side{
+    width: 50%;
+}
+.contact input, textarea{
+    display: block;
+    margin-bottom: 25px;
+    padding: 10px 30px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    margin-left: 50px;
 }
 
 
