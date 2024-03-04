@@ -202,6 +202,15 @@ main section{
     margin-top: 40px;
 }
 
+/* footer section styes */
+
+footer{
+    display: flex;
+    background-color: #FFF8F3;
+    padding: 80px 200px;
+    margin-top: 60px;
+}
+
 
 
 
